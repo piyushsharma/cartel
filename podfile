@@ -20,7 +20,6 @@ target 'Cartel' do
  
   pod 'ReadabilityKit'
 
-  
-  
+  pod 'Firebase'
 
 end
